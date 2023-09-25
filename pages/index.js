@@ -1,5 +1,9 @@
-function Home () {
-  return <h1>Sei la</h1>
+function Home() {
+  return <h1>Sei la</h1>;
 }
 
-export default Home
+function teste() {
+  return console.log("xd");
+}
+
+export default Home;
